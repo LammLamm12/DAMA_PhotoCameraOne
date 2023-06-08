@@ -1,4 +1,4 @@
-package pt.ipt.dama.dama_photocamera
+package pt.ipt.dama.dama_photocameraone
 
 import android.app.Activity
 import android.content.Intent
@@ -9,7 +9,6 @@ import android.provider.MediaStore
 import android.widget.Button
 import android.widget.ImageView
 import androidx.activity.result.contract.ActivityResultContracts
-
 class MainActivity : AppCompatActivity() {
 
     private lateinit var button: Button

@@ -1,4 +1,4 @@
-package pt.ipt.dama.dama_photocamera
+package pt.ipt.dama.dama_photocameraone
 
 import org.junit.Test
 
