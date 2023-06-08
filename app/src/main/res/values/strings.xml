@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DAMA_PhotoCamera</string>
+    <string name="take_photo">Take photo</string>
+</resources>
