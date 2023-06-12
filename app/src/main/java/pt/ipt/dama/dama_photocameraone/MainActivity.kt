@@ -40,6 +40,6 @@ class MainActivity : AppCompatActivity() {
                 result -> if (result.resultCode == Activity.RESULT_OK) {
             val data: Intent? = result.data
             imageView.setImageBitmap(data?.extras?.get("data") as Bitmap)
-        }
+            }
         }
 }
