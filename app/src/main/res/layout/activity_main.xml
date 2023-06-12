@@ -17,6 +17,7 @@
         android:id="@+id/imageView"
         android:layout_width="187dp"
         android:layout_height="197dp"
-        tools:srcCompat="@tools:sample/avatars" />
+        android:contentDescription="@string/camera_image"
+        tools:srcCompat="@tools:sample/backgrounds/scenic" />
 
 </LinearLayout>
